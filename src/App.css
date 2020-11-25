@@ -1,0 +1,17 @@
+.heading {
+  margin: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(7, 50, 148, 1) 46%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+
+}
